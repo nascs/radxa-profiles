@@ -563,3 +563,14 @@ Recommends: task-rk3576,
 Description: Metapackages for generic RK3576 image
  This package provides prebuilt packages from Rockchip that
  provides a more optimized user experience.
+
+Package: task-radxa-cubie-a5e
+Architecture: all
+Priority: optional
+Depends: radxa-system-config,
+         radxa-system-config-kernel-cmdline-ttyfiq0,
+         ${misc:Depends},
+Recommends: task-allwinner,
+Description: Metapackages for Radxa Cubie A5E
+ This package provides prebuilt packages from Allwinner that
+ provides a more optimized user experience.
