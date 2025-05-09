@@ -1,3 +1,10 @@
+radxa-profiles (0.4.30) noble; urgency=medium
+
+  [ William Norman ]
+  * feat: add task-radxa-cubie-a5e
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Tue, 08 Apr 2025 10:01:22 +0000
+
 radxa-profiles (0.4.29) noble; urgency=medium
 
   [ ZHANG Yuntian ]
